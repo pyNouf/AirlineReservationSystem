@@ -1,0 +1,100 @@
+This is a Statical Report File
+
+The user ask to display data: 34 times
+The user ask to sort data: 10 times
+The user ask to add data: 1 times
+The user ask to add Update data: 3 times
+The user ask to delete data: 1 times
+The user ask to search data: 5 times
+The Date of Last update: Thu Apr 23 17:42:07 2020
+
+
+The user ask to display data: 1 times
+The user ask to sort data: 0 times
+The user ask to add data: 0 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 0 times
+The user ask to search data: 0 times
+The Date of Last update: Thu Apr 23 17:42:48 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 0 times
+The user ask to add data: 0 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 0 times
+The user ask to search data: 1 times
+The Date of Last update: Thu Apr 23 17:43:22 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 0 times
+The user ask to add data: 1 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 0 times
+The user ask to search data: 0 times
+The Date of Last update: Thu Apr 23 17:44:06 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 4 times
+The user ask to add data: 0 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 1 times
+The user ask to search data: 0 times
+The Date of Last update: Thu Apr 23 17:44:45 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 0 times
+The user ask to add data: 0 times
+The user ask to add Update data: 1 times
+The user ask to delete data: 0 times
+The user ask to search data: 1 times
+The Date of Last update: Thu Apr 23 17:45:36 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 0 times
+The user ask to add data: 0 times
+The user ask to add Update data: 1 times
+The user ask to delete data: 0 times
+The user ask to search data: 1 times
+The Date of Last update: Thu Apr 23 17:46:03 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 0 times
+The user ask to add data: 0 times
+The user ask to add Update data: 2 times
+The user ask to delete data: 0 times
+The user ask to search data: 0 times
+The Date of Last update: Thu Apr 23 17:48:29 2020
+
+
+The user ask to display data: 3 times
+The user ask to sort data: 1 times
+The user ask to add data: 1 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 2 times
+The user ask to search data: 0 times
+The Date of Last update: Wed Apr 29 00:06:19 2020
+
+
+The user ask to display data: 0 times
+The user ask to sort data: 0 times
+The user ask to add data: 2 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 0 times
+The user ask to search data: 0 times
+The Date of Last update: Fri Oct 07 16:04:49 2022
+
+
+The user ask to display data: 1 times
+The user ask to sort data: 0 times
+The user ask to add data: 1 times
+The user ask to add Update data: 0 times
+The user ask to delete data: 0 times
+The user ask to search data: 0 times
+The Date of Last update: Fri Oct 07 16:10:23 2022
+
